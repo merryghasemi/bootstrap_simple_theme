@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(241, 237, 237);
+}
+
+
+.img-popular{
+    width: 40px;
+}
+
+#popular ul li{
+    border-bottom: 1px solid rgb(212, 209, 209);
+}
+
+#popular .bg-secondary,#tag .bg-secondary{
+
+    background-color: rgb(207, 207, 207) !important;
+}
